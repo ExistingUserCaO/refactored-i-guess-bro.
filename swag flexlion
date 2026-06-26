@@ -1,5 +1,5 @@
 {
-    "name": "cream & sky kawaii",
+    "name": "cream & sky",
     "description": "im gay btw",
     "version": "2.1.0",
     "authors": [
@@ -69,9 +69,9 @@
         "PLUM_4": "#e8f0f5",
         "PLUM_6": "#8ab0c8",
         "BRAND_230": "#5a8fa8",
-        "BRAND_260": "#8ec4dc",
+        "BRAND_260": "#dceaf2",
         "BRAND_360": "#dceaf2",
-        "BRAND_500": "#8ec4dc",
+        "BRAND_500": "#dceaf2",
         "BRAND_560": "#e8f0f5",
         "RED_260": "#c45252",
         "ROLE_DEFAULT": "#6a96b0",
