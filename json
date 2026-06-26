@@ -1,14 +1,14 @@
 {
-    "name": "Custom Trio Theme",
+    "name": "custom theme",
     "description": "ouuu shit.",
     "version": "2.1.0",
     "authors": [
         {
-            "name": "egg..",
-            "id": "0"
+            "name": "egg.."
         }
     ],
     "semanticColors": {
+        "BACKGROUND_IMAGE": ["https://raw.githubusercontent.com/ExistingUserCaO/refactored-i-guess-bro./refs/heads/main/k30zfxq.png"],
         "HEADER_PRIMARY": ["#ffffff"],
         "HEADER_SECONDARY": ["#b2c4cb"],
         "TEXT_NORMAL": ["#f4f7f8"],
