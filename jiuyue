@@ -1,17 +1,17 @@
 {
   "name": "Jiu Yue — Nature and Time",
   "description": "Fei Ren Zai's Jiu Yue",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "authors": [
     {
       "name": "jiuyue"
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#ece7da"],
+    "HEADER_PRIMARY": ["#e7e1d4"],
     "HEADER_SECONDARY": ["#cddfb4"],
-    "TEXT_NORMAL": ["#e2dccf"],
-    "TEXT_MUTED": ["#c1d5a7"],
+    "TEXT_NORMAL": ["#d6d0c5"],
+    "TEXT_MUTED": ["#aebd9c"],
     "INTERACTIVE_NORMAL": ["#9cbc82"],
     "INTERACTIVE_HOVER": ["#cddfb4"],
     "INTERACTIVE_ACTIVE": ["#e09252"],
@@ -30,10 +30,10 @@
     "BACKGROUND_MOBILE_PRIMARY": ["#293021"],
     "BACKGROUND_MOBILE_SECONDARY": ["#2f3724"],
 
-    "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 255, 255, 0.04)"],
-    "BACKGROUND_MODIFIER_HOVER": ["rgba(255, 255, 255, 0.05)"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["rgba(255, 255, 255, 0.07)"],
-    "BACKGROUND_MODIFIER_SELECTED": ["rgba(255, 255, 255, 0.10)"],
+    "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 255, 255, 0.03)"],
+    "BACKGROUND_MODIFIER_HOVER": ["rgba(255, 255, 255, 0.04)"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["rgba(255, 255, 255, 0.06)"],
+    "BACKGROUND_MODIFIER_SELECTED": ["rgba(255, 255, 255, 0.08)"],
     "BACKGROUND_MODIFIER_ACCENT": ["#38422b"],
 
     "BACKGROUND_MENTIONED": ["rgba(228, 146, 82, 0.13)"],
@@ -46,13 +46,13 @@
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#3c472c"],
     "REDESIGN_BUTTON_SECONDARY_BORDER": ["#63854f"],
 
-    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#f6f2e8"],
-    "REDESIGN_CHANNEL_NAME_TEXT": ["#f1ecde"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#e7e1d4"],
+    "REDESIGN_CHANNEL_NAME_TEXT": ["#dcd6c9"],
     "CHANNELS_DEFAULT": ["#9cbc82"],
     "CHANNEL_ICON": ["#6f9559"],
 
-    "TEXT_PRIMARY": ["#e2dccf"],
-    "TEXT_LINK": ["#78c0c2"],
+    "TEXT_PRIMARY": ["#d6d0c5"],
+    "TEXT_LINK": ["#74b8ba"],
     "THREAD_CHANNEL_SPINE": ["#6f9559"],
 
     "BACKGROUND_FLOATING": ["#2f3724"],
@@ -62,29 +62,29 @@
 
     "STATUS_DANGER": ["#c23a36"],
     "STATUS_DANGER_BACKGROUND": ["#c23a36"],
-    "STATUS_DANGER_TEXT": ["#f6f2e8"],
+    "STATUS_DANGER_TEXT": ["#e7e1d4"],
 
     "MENTION_FOREGROUND": ["#edbb78"],
     "MENTION_BACKGROUND": ["rgba(228, 146, 82, 0.18)"],
 
     "HOME_BACKGROUND": ["#2f3724"],
-    "BORDER_FAINT": ["rgba(255,255,255,0.06)"],
-    "BORDER_SUBTLE": ["rgba(255,255,255,0.11)"],
-    "BORDER_STRONG": ["rgba(255,255,255,0.17)"]
+    "BORDER_FAINT": ["rgba(255,255,255,0.05)"],
+    "BORDER_SUBTLE": ["rgba(255,255,255,0.09)"],
+    "BORDER_STRONG": ["rgba(255,255,255,0.14)"]
   },
   "rawColors": {
-    "PRIMARY_100": "#f6f2e8",
+    "PRIMARY_100": "#e7e1d4",
     "PRIMARY_200": "#cddfb4",
-    "PRIMARY_300": "#e2dccf",
-    "PRIMARY_400": "#c1d5a7",
+    "PRIMARY_300": "#d6d0c5",
+    "PRIMARY_400": "#aebd9c",
     "PRIMARY_500": "#6f9559",
     "PRIMARY_600": "#9cbc82",
     "PRIMARY_700": "#293021",
     "PRIMARY_800": "#4c5f37",
 
-    "PLUM_1": "#f6f2e8",
+    "PLUM_1": "#e7e1d4",
     "PLUM_3": "#e09252",
-    "PLUM_4": "#f6f2e8",
+    "PLUM_4": "#e7e1d4",
     "PLUM_6": "#cddfb4",
     "PLUM_9": "#9cbc82",
     "PLUM_10": "#9cbc82",
@@ -118,23 +118,23 @@
     "BRAND_630": "#e09252",
     "BRAND_660": "#e09252",
     "BRAND_700": "#e09252",
-    "BRAND_730": "#f6f2e8",
+    "BRAND_730": "#e7e1d4",
 
-    "BLUE_260": "#78c0c2",
-    "BLUE_300": "#78c0c2",
+    "BLUE_260": "#74b8ba",
+    "BLUE_300": "#74b8ba",
     "BLUE_330": "#4fb0bc",
-    "BLUE_345": "#78c0c2",
-    "BLUE_360": "#78c0c2",
-    "BLUE_400": "#78c0c2",
-    "BLUE_430": "#78c0c2",
-    "BLUE_460": "#78c0c2",
-    "BLUE_500": "#78c0c2",
-    "BLUE_530": "#78c0c2",
-    "BLUE_560": "#78c0c2",
-    "BLUE_600": "#78c0c2",
-    "BLUE_630": "#78c0c2",
-    "BLUE_660": "#78c0c2",
-    "BLUE_700": "#78c0c2",
+    "BLUE_345": "#74b8ba",
+    "BLUE_360": "#74b8ba",
+    "BLUE_400": "#74b8ba",
+    "BLUE_430": "#74b8ba",
+    "BLUE_460": "#74b8ba",
+    "BLUE_500": "#74b8ba",
+    "BLUE_530": "#74b8ba",
+    "BLUE_560": "#74b8ba",
+    "BLUE_600": "#74b8ba",
+    "BLUE_630": "#74b8ba",
+    "BLUE_660": "#74b8ba",
+    "BLUE_700": "#74b8ba",
 
     "GREEN_260": "#7ab870",
     "GREEN_300": "#7ab870",
@@ -207,7 +207,7 @@
     "GUILD_BOOSTING_PURPLE": "#e09252",
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#e09252",
 
-    "WHITE_500": "#ece7da",
+    "WHITE_500": "#e7e1d4",
     "WHITE_630": "#cddfb4"
   },
   "plus": {
@@ -215,24 +215,24 @@
     "customOverlays": true,
     "icons": {
       "ic_radio_circle_checked": "#e09252",
-      "ic_radio_circle_checked__overlay": "#f6f2e8",
+      "ic_radio_circle_checked__overlay": "#e7e1d4",
       "ic_radio_square_24px": "#e09252",
       "ic_radio_square_checked_24px": "#e09252",
-      "ic_radio_square_checked_24px__overlay": "#f6f2e8",
+      "ic_radio_square_checked_24px__overlay": "#e7e1d4",
       "ic_selection_checked_24px": "#e09252",
-      "ic_selection_checked_24px__overlay": "#f6f2e8",
+      "ic_selection_checked_24px__overlay": "#e7e1d4",
       "StatusMobileOnline": "#7ab870",
       "StatusIdle": "#ecd878",
       "StatusDND": "#c23a36",
       "StatusOffline": "#4c5f37",
       "StatusOnline": "#7ab870",
-      "StatusStreaming": "#78c0c2"
+      "StatusStreaming": "#74b8ba"
     }
   },
   "background": {
     "blur": 0,
     "url": "https://raw.githubusercontent.com/ExistingUserCaO/refactored-i-guess-bro./refs/heads/main/Camera_1040g3k8321o51m7uno105ph51k60u2lolegl3e8.jpg",
-    "alpha": 0.45
+    "alpha": 0.30
   },
   "spec": 2
 }
