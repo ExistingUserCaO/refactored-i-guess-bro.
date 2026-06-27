@@ -8,7 +8,7 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#f6f2e8"],
+    "HEADER_PRIMARY": ["#ece7da"],
     "HEADER_SECONDARY": ["#cddfb4"],
     "TEXT_NORMAL": ["#e2dccf"],
     "TEXT_MUTED": ["#c1d5a7"],
@@ -75,7 +75,7 @@
   "rawColors": {
     "PRIMARY_100": "#f6f2e8",
     "PRIMARY_200": "#cddfb4",
-    "PRIMARY_300": "#f1ecde",
+    "PRIMARY_300": "#e2dccf",
     "PRIMARY_400": "#c1d5a7",
     "PRIMARY_500": "#6f9559",
     "PRIMARY_600": "#9cbc82",
@@ -207,7 +207,7 @@
     "GUILD_BOOSTING_PURPLE": "#e09252",
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#e09252",
 
-    "WHITE_500": "#f6f2e8",
+    "WHITE_500": "#ece7da",
     "WHITE_630": "#cddfb4"
   },
   "plus": {
