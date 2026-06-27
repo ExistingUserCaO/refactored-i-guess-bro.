@@ -10,7 +10,7 @@
   "semanticColors": {
     "HEADER_PRIMARY": ["#f6f2e8"],
     "HEADER_SECONDARY": ["#cddfb4"],
-    "TEXT_NORMAL": ["#f1ecde"],
+    "TEXT_NORMAL": ["#e2dccf"],
     "TEXT_MUTED": ["#c1d5a7"],
     "INTERACTIVE_NORMAL": ["#9cbc82"],
     "INTERACTIVE_HOVER": ["#cddfb4"],
@@ -51,7 +51,7 @@
     "CHANNELS_DEFAULT": ["#9cbc82"],
     "CHANNEL_ICON": ["#6f9559"],
 
-    "TEXT_PRIMARY": ["#f1ecde"],
+    "TEXT_PRIMARY": ["#e2dccf"],
     "TEXT_LINK": ["#78c0c2"],
     "THREAD_CHANNEL_SPINE": ["#6f9559"],
 
